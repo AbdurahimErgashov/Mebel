@@ -31,7 +31,7 @@ display: flex;
 width: 100%;
 justify-content: center;
   img { 
-    width: 100%;
+    width: 100px;
   }
 `;
 
